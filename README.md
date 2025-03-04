@@ -2,7 +2,7 @@
 
 A full-stack Notes App built with **Flask** (backend), **React** (frontend), and **PostgreSQL** (database). This app allows users to create, read, update, and delete notes with secure **JWT-based authentication**.
 
-![Image](https://github.com/user-attachments/assets/fe52b574-22d9-49e9-9dc5-a9268bb54f6f)
+![Image](https://github.com/user-attachments/assets/0ded5891-767e-4595-9bf2-825293a2b651)
 
 ## Features
 
